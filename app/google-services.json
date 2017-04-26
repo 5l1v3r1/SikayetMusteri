@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789222591722",
+    "firebase_url": "https://fir-deneme-edc23.firebaseio.com",
+    "project_id": "fir-deneme-edc23",
+    "storage_bucket": "fir-deneme-edc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789222591722:android:6f4db3aee36e7f76",
+        "android_client_info": {
+          "package_name": "com.example.galatasaray.firebasedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789222591722-1sqkneg8d45qgef5gelib85pbe6qtnpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galatasaray.firebasedeneme",
+            "certificate_hash": "02469f43124ff7a1293adc20bf6d6ee627bc879e"
+          }
+        },
+        {
+          "client_id": "789222591722-m2bmo5mek9b60dc7hqdd23q40s4gmkt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7JYoSoMnrnjPQn67y0SzWvaG_wWBcnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789222591722-m2bmo5mek9b60dc7hqdd23q40s4gmkt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
